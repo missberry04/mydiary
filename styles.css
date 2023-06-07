@@ -3,16 +3,17 @@ body{
 	background-image:url("bg1.jpg");
 }
 li{
+	
 	font-size:25px;
 	color:blue;
 	list-style-type:none;
 }
-header, #About, #Day, #Contact, #song,footer{
+header, footer, main{
 	font-size:18px;
 	align-items:center;
 	justify-content:center;
 	text-align:center;
-	background-color: rgba(255, 255, 255, 0.59);
+	background-color: rgba(255, 255, 255, 0.62);
 	padding: 20px;
 	max-width: 600px;
 	box-sizing: border-box;
